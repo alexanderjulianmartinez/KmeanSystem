@@ -17,7 +17,7 @@ python exp.py
 
 Run the following in the command line to train the K-means model, visualize, and save predictions:
 ```bash
-model.py
+python model.py
 ```
 
 ## Notes
